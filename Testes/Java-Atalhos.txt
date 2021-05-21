@@ -1,0 +1,12 @@
+Atalhos Java
+
+Ctrl + 1 = exibe opções para criar variáveis;
+Ctrl + schift + F - alinha o código;
+Ctrl + schift + M - adiciona o import de um método estático
+Ctrl + / - comenta as linhas selecionadas com //
+
+
+Renomear uma classe
+Botão direito na classe, opção: Reactor/Rename
+
+
