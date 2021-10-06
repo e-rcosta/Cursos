@@ -1,0 +1,25 @@
+CodeceptJs
+
+Comandos:
+
+1 - Criar uma feature:
+		npx codeceptJs gt
+		
+2 - Iden		
+
+3 - Executar o projeto usando o arquivo de configuração do codecepetjs
+		npx codeceptjs run --step
+		
+4 - Criar um arquivo no padrão pageObject
+		npx codeceptJs gpo
+		
+5 - Para executar apenas algum cenário projeto codeceptJs com windows
+
+npx codeceptjs run --steps --grep @cartaoCredito
+
+6 - Para executar com brawserStack
+ENV_EXEC=cloud ENV=sandbox npx codeceptjs run --steps --grep @cartaoCredito
+		
+James Prox
+
+Para instalação usar o gihub, fazer a busca por esse aplicativo e faer o download da versão correspondente ao sistema operacional da sua máquina.
